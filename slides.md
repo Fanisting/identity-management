@@ -225,7 +225,7 @@ class: text-center
 
 ## Timing of Moves and Actions
 
-![Timing of Moves and Actions](/public/timing.png)
+![Timing of Moves and Actions](/timing.png)
 
 ### Notations
 
